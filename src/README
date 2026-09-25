@@ -1,0 +1,37 @@
+PP_TP2 - Sistema de Eventos Universitarios
+
+Descripción
+
+Sistema desarrollado en Java aplicando conceptos de Programación Orientada a Objetos.
+
+El proyecto permite gestionar eventos universitarios, actividades, estudiantes e inscripciones.
+
+Funcionalidades implementadas
+
+Ejercicio 1
+- Manejo de excepciones personalizadas.
+- Control de cupos de inscripción.
+- Uso de packages.
+
+Ejercicio 2
+- Herencia entre actividades.
+- Interfaz Certificable.
+- Emisión de certificados para talleres y cursos.
+- Implementación de Cloneable.
+
+Ejercicio 3
+- Uso de genéricos.
+- Filtrado de actividades por tipo.
+- Cálculo de costos mediante listas tipadas.
+
+Ejercicio 4
+- Generación de tickets de acceso.
+- Clase anidada TicketDeAcceso.
+- Uso de hilos para envío concurrente de tickets.
+
+
+Tecnologías
+
+- Java
+- IntelliJ IDEA
+- Programación Orientada a Objetos
